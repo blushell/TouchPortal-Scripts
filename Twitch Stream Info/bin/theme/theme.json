@@ -1,0 +1,14 @@
+{
+	"twitch": {
+		"primary": "blue",
+		"secondary": "purple"
+	},
+	"kick": {
+		"primary": "red",
+		"secondary": "orange"
+	},
+	"youtube": {
+		"primary": "red",
+		"secondary": "white"
+	}
+}
